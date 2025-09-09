@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "/bin/sh /Kilgorezer/kbrowser &" >> /etc/init.d/rcS
+/bin/cp "/LF/Bulk/endpointurls.json" "/LF/Bulk/endpointurls_bak.json"
+
